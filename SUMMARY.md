@@ -1,10 +1,11 @@
 # Summary
 
 ## 概述
-* [Introduction](README.md)
+* [介绍](README.md)
 * [First Chapter](chapter1.md)
 
 ## 通用
 
 ## 技术
+* [架构](架构.md)
 
