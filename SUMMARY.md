@@ -1,7 +1,7 @@
 # Summary
 
 ## 概述
-* [关于文档](关于.md)
+* [文档须知](关于.md)
 * [介绍](README.md)
 * [Release Notes](release-notes.md)
 
