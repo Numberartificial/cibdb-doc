@@ -6,6 +6,7 @@
 * [Release Notes](release-notes.md)
 
 ## 通用
+* [劫-道-术](劫-道-术.md)
 
 ## 技术
 * [架构](架构.md)
