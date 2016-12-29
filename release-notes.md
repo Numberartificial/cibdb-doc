@@ -7,6 +7,9 @@ ChangeLog
  * 爬虫微服务内存泄露
  * 爬虫逻辑优化
 
+#### Improvements
+ * elastic-job 升级 
+
 1.0.0-RELEASE
 ----
 #### Features
