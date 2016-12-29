@@ -8,7 +8,7 @@ ChangeLog
  * 爬虫逻辑优化
 
 #### Improvements
- * elastic-job 升级 
+ * elastic-job 升级 `2.0.0`->`2.0.3`
 
 1.0.0-RELEASE
 ----
