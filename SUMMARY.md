@@ -14,11 +14,11 @@
 ## 技术
 * [架构](架构.md)
     * [集群快照](快照.md)
-* spring
+* [spring](spring.md)
 * [spring-boot](spring-boot.md)
 * [spring-cloud](spring-cloud.md)
-* jhipster
-* restful
+* [jhipster](jhipster.md)
+* [restful](restful.md)
 
 ## 运维
 * [部署](部署.md)
