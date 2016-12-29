@@ -4,7 +4,10 @@
 1.0.1-RELEASE
 
 ###Fixs
- * 爬虫集群判定逻辑：
+ * 爬虫集群判定逻辑修改
+
+###Improvements
+ * 
     
 1.0.0-RELEASE
 -----
