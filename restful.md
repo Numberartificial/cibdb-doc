@@ -1,6 +1,11 @@
 ##ChangeLog
 ----
 
+1.0.1-RELEASE
+
+###Fixs
+ * 爬虫集群判定逻辑：
+    
 1.0.0-RELEASE
 -----
 
