@@ -5,3 +5,5 @@
 -----
 
 ###Features
+ * spring cloud微服务注册、发现进行微服务集群管理
+ *
