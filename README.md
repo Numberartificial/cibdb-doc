@@ -1,8 +1,10 @@
 # cibdb
 
 ---
+[文档目录](SUMMARY.md)
 
-这里是cibdb项目的介绍
 
-[目录](SUMMARY.md)
+
+cibdb项目是一个内部项目的
+
 
