@@ -6,6 +6,7 @@
 
 ####Fixs
  * 爬虫集群判定逻辑修改
+ * 修复爬虫集群内存不断增长bug
 
 ####Improvements
  * 升级 elastic-job-lite to `2.0.3`
