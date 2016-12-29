@@ -4,6 +4,8 @@ ChangeLog
 1.0.1-RELEASE
 ----
 #### Fixs
+ * 爬虫微服务内存泄露
+ * 爬虫逻辑优化
 
 1.0.0-RELEASE
 ----
