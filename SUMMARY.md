@@ -12,8 +12,9 @@
     * [道](道.md)
     * [术](术.md)
 
+## 设计
+
 ## 技术
-* [设计](设计.md)
 * [架构](架构.md)
     * [集群快照](快照.md)
 * [spring](spring.md)
@@ -21,6 +22,7 @@
 * [spring-cloud](spring-cloud.md)
 * [jhipster](jhipster.md)
 * [restful](restful.md)
+
 
 ## 运维
 * [部署](部署.md)
