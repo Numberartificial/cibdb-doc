@@ -3,6 +3,7 @@
 ## 概述
 * [文档须知](关于.md)
 * [cibdb介绍](README.md)
+    * [数据特点](数据特定.md)
 * [Release Notes](release-notes.md)
 
 ## 通用
