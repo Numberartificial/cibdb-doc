@@ -20,9 +20,9 @@
 * [spring](spring.md)
 * [spring-boot](spring-boot.md)
 * [spring-cloud](spring-cloud.md)
+* elastic-job
 * [jhipster](jhipster.md)
 * [restful](restful.md)
-
 
 ## 运维
 * [部署](部署.md)

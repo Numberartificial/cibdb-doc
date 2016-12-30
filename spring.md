@@ -2,6 +2,10 @@
 ----
 java开发如今已避免不了使用spring了
 
+[官网](spring.io)
+
 #### 两个特性：
   -  beanFactory 容器管理
   -  DI/IOC 依赖注入/控制反转
+
+这两个特性是spring立足java应用体系的根本，但而今我们所讨论的spring已早已不是一个提供这两个特性的库了，而是一个体系，与java EE分庭抗拒或者说是互相促进的完整java应用开发体系。
