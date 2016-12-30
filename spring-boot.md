@@ -16,5 +16,9 @@
 项目版本： 1.4.3-REALEASE
 
 入门：
->Takes an opinionated view of building production-ready Spring applications. Spring Boot favors convention over configuration and is designed to get you up and running as quickly as possible.
+>Takes an opinionated view of building production-ready **Spring applications**. Spring Boot favors **convention over configuration** and is designed to get you up and running as quickly as possible.
+
+重点理解：
+ * spring应用
+ * 约定大于配hi
    
