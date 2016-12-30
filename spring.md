@@ -15,4 +15,4 @@ java开发如今已避免不了使用spring了
 >Spring helps development teams everywhere build simple, portable,  fast and flexible JVM-based systems and applications.
 
 
-spring是一个体系，与java EE分庭抗拒或者说是互相促进的不断完善增长的java应用开发体系。
+spring是一个体系，与java EE**分庭抗拒**或者说是**互相促进**的不断完善增长的java应用开发体系。
