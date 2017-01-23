@@ -22,6 +22,7 @@
 * [spring-boot](spring-boot.md)
 * [spring-cloud](spring-cloud.md)
 * [elastic-job](elastic-job.md)
+    * [elastic-job-lite](elastic-job-lite.md)
 * [jhipster](jhipster.md)
 * [restful](restful.md)
 
